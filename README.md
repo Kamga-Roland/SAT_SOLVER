@@ -7,7 +7,7 @@ Placez le fichier wikiGrid.txt dans le même dossier que le script.
 Executer : python GrilleToFormular.py
 Génère automatiquement : `grille.txt`, `variables.txt`, `formular.cnf`
 
-2. Résolution avec MiniSat
+2. Résolution avec MiniSat où un logiciel SAT
 Lancez la formule formular.cnf dans un solveur SAT (ex. MiniSat).
 Sauvegardez le résultat dans un fichier example: <sat_output.txt>.
 
